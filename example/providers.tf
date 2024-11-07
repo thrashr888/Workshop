@@ -1,7 +1,7 @@
 terraform {
   cloud {
     # TODO: Change this to your Terraform Cloud org name.
-    organization = "ENTER_YOUR_TERRAFORM_CLOUD_ORG"
+    organization = "pthrasher_v2"
     workspaces {
       name = "my-aws-workspace"
     }

@@ -1,2 +1,3 @@
-hcp_tf_org="ENTER_YOUR_TERRAFORM_CLOUD_ORG"
+hcp_tf_org="pthrasher_v2"
 region="us-west-2"
+tfc_project_name="Examples"
